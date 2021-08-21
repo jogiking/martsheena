@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465521074773",
+    "project_id": "martsheena",
+    "storage_bucket": "martsheena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465521074773:android:233cf6c12a511a12b9aadc",
+        "android_client_info": {
+          "package_name": "com.turu.martsheena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465521074773-6u3biuo4vjetki6aqqfj2sh6bed8dof4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYJRVeQLSEBNp9nrqNB6PrNObWZpQIpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465521074773-6u3biuo4vjetki6aqqfj2sh6bed8dof4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
